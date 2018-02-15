@@ -1,0 +1,25 @@
+import java.until.scanner:
+
+public class D213{
+    public static void main(string [] args) {
+    scanner ipt = new sacnner(system.in);
+    system.out.print("your name(no space containing):");
+    
+    string name = ipt.next();
+    system.out.println("which level you om")
+     
+    
+    
+    
+    
+    
+    }
+    
+           
+    
+    
+   }
+   
+    
+    
+ 
