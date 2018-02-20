@@ -15,7 +15,7 @@ public class D213{
     System.out.println("choose 1/2 :");
     String level = ipt.next();
     
-    System.out.println("---------------------------");
+    System.out.println("--------------------------");
     System.out.println("player's info");
     System.out.println("--------------------------");
     System.out.println("");
